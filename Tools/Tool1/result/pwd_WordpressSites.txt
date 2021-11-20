@@ -1,0 +1,8 @@
+wp52.meroketetapjaya.com/  /home/ebiznet/public_html/wp52/
+www.helicraft.se/  /home/b3015/public_html/
+www.zur-weissen-rose.at/  /data/web/e20125/html/hofbauer/
+johnlfraser.com/  /var/sites/j/johnlfraser.com/public_html/
+novo.martinsebaierle.com.br/  /home/martinse/novo.martinsebaierle.com.br/
+www.bio-aesthetisch.com/  /homepages/6/d116788943/htdocs/clickandbuilds/WordPress/MyCMS4/
+blumonk.com/  /homepages/8/d240896816/htdocs/
+atosplus.sk/  /data/7/a/7a1a9c2e-a756-4dbd-889a-ec09481bc387/atosplus.sk/web/

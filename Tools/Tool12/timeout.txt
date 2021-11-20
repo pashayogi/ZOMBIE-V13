@@ -1,0 +1,11 @@
+cox.net:587:timed out
+2line.de:587:timed out
+smtp.me.com:587:timed out
+smtp.gmail.com:587:timed out
+smtp.ziggo.nl:587:timed out
+smtp.btinternet.com:587:timed out
+smtp.charter.net:587:timed out
+smtp.laposte.net:587:timed out
+mail.allthatsepic.com:587:timed out
+pop3.t-online.de:587:[Errno 104] Connection reset by peer
+smtp.mac.com:587:timed out
