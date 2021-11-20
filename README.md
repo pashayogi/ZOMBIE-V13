@@ -1,9 +1,7 @@
 # Zombi Bot v13
 # If u have problem in BOT
 # Contact me ?
-# Email : nedjworgan@gmail.com
-# ICQ: 744289868
-# My Facebook Page: https://www.facebook.com/viper1337official/
+# Email : yondimex@gmail.com
 
 Install Xammp for Run Sender :)
 Install Python 2.7 Run Other Tools
